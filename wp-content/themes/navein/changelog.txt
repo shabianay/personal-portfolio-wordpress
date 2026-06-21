@@ -1,0 +1,6 @@
+** Navein **
+
+** ----- Initial Release ----- **
+
+** ----- v1.0.1 - 07 March 2025 ----- **
+- Minor styling fixes

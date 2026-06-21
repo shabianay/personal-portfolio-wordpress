@@ -1,0 +1,35 @@
+# WordPress Core
+wp-admin/
+wp-includes/
+
+# Static core files (not wp-content)
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config-sample.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+index.php
+license.txt
+readme.html
+
+# Config
+wp-config.php
+
+# Logs
+error_log
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads (optional - uncomment if you don't want to track uploads)
+# wp-content/uploads/
